@@ -6,7 +6,7 @@ Esta guía te ayudará a usar Lovable.dev efectivamente durante el reto de 30 mi
 
 ## Paso 1: El "Mega-Prompt" Inicial (Minuto 2-7)
 
-**IMPORTANTE:** NO pidas un botón. Pide el sueño completo.
+**IMPORTANTE:** NO pidas un botón. Pide el software completo.
 
 ### Ejemplo de Prompt para Logística:
 
@@ -72,6 +72,18 @@ Refina la UI hablando con la IA. Ejemplos:
 - **Lucide Icons** - Iconos modernos
 - **shadcn/ui** - Componentes React
 - **Deploy automático** - URL pública instantánea
+
+### Interfaz de Lovable
+
+#### Vista Principal (después del registro)
+Esta es la pantalla inicial que verás al entrar a Lovable:
+
+![Vista principal de Lovable](../images/1-home.png)
+
+#### Dashboard de Construcción
+Una vez que comienzas a construir tu aplicación con prompts:
+
+![Dashboard de construcción en Lovable](../images/2-idashboard.png)
 
 ### Inspiración de UI
 
