@@ -78,12 +78,12 @@ Refina la UI hablando con la IA. Ejemplos:
 #### Vista Principal (después del registro)
 Esta es la pantalla inicial que verás al entrar a Lovable:
 
-![Vista principal de Lovable](../images/1-home.png)
+![Vista principal de Lovable](images/1-home.png)
 
 #### Dashboard de Construcción
 Una vez que comienzas a construir tu aplicación con prompts:
 
-![Dashboard de construcción en Lovable](../images/2-idashboard.png)
+![Dashboard de construcción en Lovable](images/2-idashboard.png)
 
 ### Inspiración de UI
 
